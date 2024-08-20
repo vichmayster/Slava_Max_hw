@@ -428,23 +428,15 @@ MonoBehaviour:
   prefab: {fileID: 1449735615471854537, guid: 344b8d849ea5d514296924392d9b9b99, type: 3}
   WaitTimeToSpawn: 1
   amountToSpawn: 100
-  spawns:
+  spawnPoints:
   - {fileID: 822529522}
-  - {fileID: 987379140}
   - {fileID: 504355966}
+  - {fileID: 987379140}
   - {fileID: 1889682226}
   - {fileID: 64032981}
   - {fileID: 1353620448}
   - {fileID: 1993540106}
   - {fileID: 35529678}
-  spawn_a: {fileID: 822529522}
-  spawn_b: {fileID: 987379140}
-  spawn_c: {fileID: 504355966}
-  spawn_d: {fileID: 1889682226}
-  spawn_e: {fileID: 64032981}
-  spawn_f: {fileID: 1353620448}
-  spawn_g: {fileID: 1993540106}
-  spawn_h: {fileID: 35529678}
   waitTimeRandom: {x: 0, y: 0.6}
   impulseForce: 10
 --- !u!4 &213720838
@@ -1795,8 +1787,8 @@ SceneRoots:
   - {fileID: 1979169838}
   - {fileID: 78037245}
   - {fileID: 822529523}
-  - {fileID: 987379141}
   - {fileID: 504355967}
+  - {fileID: 987379141}
   - {fileID: 1889682227}
   - {fileID: 64032982}
   - {fileID: 1353620449}
